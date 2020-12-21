@@ -1,3 +1,3 @@
-## Implementation of the following two Deterministic Finite Automata (DFA) in python:
+### Implementation of the following Deterministic Finite Automata (DFA) in Python:
 
 ![](DFA_StateDiagrams.png)
